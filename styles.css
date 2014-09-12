@@ -1,0 +1,59 @@
+.header {
+	background: black;
+	width: 100%;
+	height: 75px;
+}
+
+.header h1{
+	color:gray;
+	text-align: left;
+	font-family: serif;
+	padding-left: 1%:;
+}
+
+.boxes {
+	display:flex;
+}
+
+.pinkbox {
+	border: 1px solid pink;
+	width: 23%;
+	height: 200px;
+	border-radius: 4px;
+	margin: 2%;
+}
+
+.yellowbox {
+	border: 1px solid yellow;
+	width: 23%;
+	height: 200px;
+	border-radius: 4px;
+	margin: 2%;
+}
+.greenbox {
+	border: 1px solid green;
+	width: 23%;
+	height: 200px;
+	border-radius: 4px;
+	margin: 2%;
+}
+
+.graybox {
+	border: 1px solid gray;
+	width: 23%;
+	height: 200px;
+	border-radius: 4px;
+	margin: 2%;
+}
+li {
+	border-bottom: 1px solid black;
+}
+
+}
+
+.new {
+	background: Pink;
+	width: 23%;
+	height: 40px;
+}
+
